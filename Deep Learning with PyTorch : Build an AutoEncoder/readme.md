@@ -6,3 +6,12 @@ In these one hour project-based course, you will learn to implement autoencoder 
     Use DataLoader to load your dataset into batches
     Design AutoEncoder Network
     Understand Training process for AutoEncoder
+
+### Project Structure
+The hands on project on Deep Learning with PyTorch : Build an AutoEncoder is divided into following tasks:
+#### Task 1: Exploring Dataset 
+#### Task 2: Data Preparation 
+#### Task 3: Load Dataset into batches
+#### Task 4: Create AutoEncoder Model 
+#### Task 5: Train AutoEncoder Model 
+#### Task 6: Plot Results
